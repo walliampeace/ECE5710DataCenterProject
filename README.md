@@ -1,7 +1,7 @@
 # ECE5710DataCenterProject
 ECE5710 Project with two microservices applications communicate with each other by RabbitMQ
 ## First thing first
-for the two microservices admin/main
+For the two microservices admin/main
 use `docker-compose up` command run the applications
 **Note**: if it is the first time you run it, you should choose the first command in [docker-compose](https://github.com/walliampeace/ECE5710DataCenterProject/blob/main/python-microservices/admin/docker-compose.yml) file 
 and main app [docker-compose](https://github.com/walliampeace/ECE5710DataCenterProject/blob/main/python-microservices/main/docker-compose.yml) file to create database and migrate database
