@@ -2,9 +2,9 @@
 ECE5710 Project with two microservices applications communicate with each other by RabbitMQ
 ## First thing first
 For the two microservices admin/main
-use `docker-compose up` command run the applications
+use `docker-compose up` command run the applications  
 **Note**: if it is the first time you run it, you should choose the first command in [docker-compose](https://github.com/walliampeace/ECE5710DataCenterProject/blob/main/python-microservices/admin/docker-compose.yml) file 
-and main app [docker-compose](https://github.com/walliampeace/ECE5710DataCenterProject/blob/main/python-microservices/main/docker-compose.yml) file to create database and migrate database
+and main app [docker-compose](https://github.com/walliampeace/ECE5710DataCenterProject/blob/main/python-microservices/main/docker-compose.yml) file to create database and migrate database  
 after that you can change these two files and change it to regular run command without migrating database
 ## Second
 move to the react folder
