@@ -1,5 +1,7 @@
 # ECE5710DataCenterProject
-ECE5710 Project with two microservices applications communicate with each other by RabbitMQ
+ECE5710 Project with two microservices applications communicate with each other by RabbitMQ  
+The two backend microservices are based on Django and Flask  
+![image](https://user-images.githubusercontent.com/59054117/174927166-92980b20-81f8-4339-bfb1-8af512044c88.png)
 ## First thing first
 For the two microservices admin/main
 use `docker-compose up` command run the applications  
